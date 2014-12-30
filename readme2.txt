@@ -6,4 +6,8 @@ creating a new branch is quick.
 creating a new branch is quick and simple.
 123
 
+HEAD
 i am in master
+=======
+i am back
+dev
